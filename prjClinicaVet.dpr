@@ -2,7 +2,8 @@ program prjClinicaVet;
 
 uses
   Vcl.Forms,
-  untPrincipal in 'untPrincipal.pas' {FrmPrincipal};
+  untPrincipal in 'untPrincipal.pas' {FrmPrincipal},
+  untPadrao in 'untPadrao.pas' {frmPadrao};
 
 {$R *.res}
 
